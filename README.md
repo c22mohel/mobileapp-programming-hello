@@ -1,9 +1,8 @@
 
 # Rapport
 
-**Skriv din rapport här!**
-
-_Du kan ta bort all text som finns sedan tidigare_.
+Jag har först skapat en github account. Sedan så behövde jag gå in i strings.xml för att kunna ändra i stringen med namnet app_name från hello world till very nice. Sedan under git så kan man commit och beskriva
+vad man har gjort för ändring. sedan så la jag upp detta i github genom att använda token. 
 
 ## Följande grundsyn gäller dugga-svar:
 
